@@ -10,8 +10,6 @@
 
 .app__background {
   position: fixed;
-  width: 100vw;
-  height: 100vw;
   z-index: -1;
 }
 
