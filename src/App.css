@@ -454,9 +454,8 @@ section {
     left: 0;
     width: 100%;
     padding-top: 35px;
-    padding-bottom: 35px; /* tentative */
+    padding-bottom: 35px;
     align-items: center;
-    /* background: orange; */
     background: #020617E6;
     pointer-events: none;
     transform: translateX(-100%);

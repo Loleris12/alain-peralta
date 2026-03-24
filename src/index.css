@@ -6,5 +6,8 @@ body {
   margin: 0;
   background: #020617;
   color: #e5e7eb;
+}
+
+html, body {
   overflow-x: hidden; /* Prevent horizontal scrolling */
 }
