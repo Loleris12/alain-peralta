@@ -1,6 +1,6 @@
 .flip-card {
   width: 350px;
-  height: 365px;
+  height: 355px;
   position: relative;
   overflow: visible;
 }
@@ -58,7 +58,7 @@
 }
 
 .card-title {
-  height: 100px;
+  height: 90px;
   background: rgba(255, 255, 255, 0.02);
   display: flex;
   align-items: center;
